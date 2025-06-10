@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Shubham = () => {
+const ShubhaM = () => {
   return (
-    <div>Shubham</div>
+    <div>ShubhaM jOB PORTAL</div>
   )
 }
 
-export default Shubham
+export default ShubhaM
